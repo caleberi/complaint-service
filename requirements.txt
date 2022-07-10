@@ -1,0 +1,13 @@
+asyncpg~=0.25.0
+psycopg2
+psycopg2-binary
+sqlalchemy~=1.4.39
+python-decouple
+databases~=0.6.0
+alembic~=1.8.0
+pyjwt~=2.4.0
+fastapi~=0.78.0
+passlib~=1.7.4
+pydantic~=1.9.1
+starlette~=0.19.1
+bcrypt~=3.2.2
